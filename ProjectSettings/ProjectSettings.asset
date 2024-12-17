@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: John Choi
-  productName: Pre-Interview-Task
+  productName: Pre-Interview-Task-MR
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -164,7 +164,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.JohnChoi.PreInterviewTask
+    Android: com.JohnChoi.PreInterviewTaskMR
     Standalone: com.DefaultCompany.Unity-URP-XR-NPC-AI
   buildNumber:
     Standalone: 0
