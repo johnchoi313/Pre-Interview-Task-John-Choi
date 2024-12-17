@@ -15,7 +15,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &714972939883299395
 Transform:
   m_ObjectHideFlags: 0
@@ -1660,7 +1660,7 @@ Animator:
   m_GameObject: {fileID: 2776854889449910790}
   m_Enabled: 1
   m_Avatar: {fileID: 9000000, guid: cf1247dce0ab140498b7b540513ee126, type: 3}
-  m_Controller: {fileID: 9100000, guid: 6bec2ff28a7e53e45808bd5e4b074fd1, type: 2}
+  m_Controller: {fileID: 9100000, guid: 2469fcebaab00a2468ca53f71992301e, type: 2}
   m_CullingMode: 1
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -1779,8 +1779,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4b38e4bc919e1f040ba78aea7472893e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  characterName: Amelia
-  characterID: da259c0a-0a14-11ee-a449-42010a400002
+  characterName: Faelyn Cardithas
+  characterID: 3afbb3dc-bb1e-11ef-bfb3-42010a7be016
   sessionID: -1
   isCharacterActive: 0
   actionsHandler: {fileID: 0}
@@ -5172,7 +5172,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &545561187463959616
 Transform:
   m_ObjectHideFlags: 0
